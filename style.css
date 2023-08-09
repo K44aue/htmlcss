@@ -1,0 +1,31 @@
+
+.pai {
+    display: flex;
+    background-color: rgb(212, 196, 50);
+    flex-direction: row-reverse;
+      }
+      
+      .pai > div {
+        background-color: #000000;
+        margin: 10px;
+        padding: 20px;
+        font-size: 30px;
+      }
+    
+      body{
+        color: rgb(245, 244, 245);
+        background-color:black ;
+    }
+     h1{
+        text-align: center;
+       
+     }
+    
+    a{
+        text-decoration: none;
+        color: rgb(253, 247, 248);
+    }
+    
+    div{
+        color: rgb(216, 210, 221);
+    }
